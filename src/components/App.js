@@ -4,6 +4,7 @@ import Tooltip from "./Tooltip";
 const App = () => {
   return (
     <div>
+      {/* put */}
       <Tooltip text="This is a tooltip">
         <h2 className="tooltip">Hover over me</h2>
       </Tooltip>
